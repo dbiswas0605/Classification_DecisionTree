@@ -1,0 +1,16 @@
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\bin\Debug\TestData\Input0.txt
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\bin\Debug\DecisionTree.exe.config
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\bin\Debug\DecisionTree.exe
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\bin\Debug\DecisionTree.pdb
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\obj\Debug\DecisionTree.csproj.CoreCompileInputs.cache
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\obj\Debug\DecisionTree.exe
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\obj\Debug\DecisionTree.pdb
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\bin\Debug\TestData\input21.txt
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\bin\Debug\TestData\input22.txt
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\bin\Debug\TestData\input23.txt
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\bin\Debug\TestData\input24.txt
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\bin\Debug\TestData\output21.txt
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\bin\Debug\TestData\output22.txt
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\bin\Debug\TestData\output23.txt
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\bin\Debug\TestData\output24.txt
+C:\Users\d.biswas\Desktop\MCS - DS\Program\DecisionTree\IndegenousImplementation2\DecisionTree\DecisionTree\obj\Debug\DecisionTree.csprojAssemblyReference.cache
